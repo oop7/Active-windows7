@@ -18,10 +18,20 @@ This project provides a straightforward method to activate Windows 7. The tool i
 - Permissions: Administrator rights required
 
 ## 🛠️  Installation
-
-1. Download: Obtain the latest version of the tool from the releases page.
+### **Method 1**
+1. Download: Obtain the latest version of the tool from the [releases page](https://github.com/oop7/Active-windows7/releases).
 2. Extract: Unzip the downloaded file to a directory of your choice.
-3. Run: Execute the tool with administrator privileges.
+
+### **Method 2**
+1. **Open PowerShell**:
+   - Right-click the Start menu and select **Windows PowerShell** or **Windows Terminal**.
+   - If prompted by User Account Control (UAC), click **Yes** to allow PowerShell to run with administrative privileges.
+
+2. Run the following command in PowerShell to download and execute the activation script:
+
+   ```powershell
+   irm https://github.com/oop7/Active-windows7/releases/download/v1.1/v1.1.zip -OutFile v1.1.zip; Expand-Archive v1.1.zip -DestinationPath . -Force; cmd.exe /c .\v1.1\script.bat
+   ```
 
 ## 💻  Usage
 
