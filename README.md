@@ -30,7 +30,7 @@ This project provides a straightforward method to activate Windows 7. The tool i
 2. Run the following command in PowerShell to download and execute the activation script:
 
    ```powershell
-   irm https://github.com/oop7/Active-windows7/releases/download/v1.1/v1.1.zip -OutFile v1.1.zip; Expand-Archive v1.1.zip -DestinationPath . -Force; cmd.exe /c .\v1.1\script.bat
+   irm https://github.com/oop7/Active-windows7/releases/download/v1.1/v1.1.zip -OutFile v1.1.zip; Expand-Archive v1.1.zip -DestinationPath . -Force; cmd.exe /c .\v1.1\Launcher.bat
    ```
 
 ## 💻  Usage
