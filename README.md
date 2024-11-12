@@ -18,7 +18,7 @@ This project provides a straightforward method to activate Windows 7. The tool i
 - Permissions: Administrator rights required
 
 ## 🛠️  Installation
-### **Method 1**
+
 1. Download: Obtain the latest version of the tool from the [releases page](https://github.com/oop7/Active-windows7/releases).
 2. Extract: Unzip the downloaded file to a directory of your choice.
 
