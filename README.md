@@ -39,7 +39,7 @@ This project provides a straightforward method to activate Windows 7. The tool i
 2. Follow the on-screen instructions to activate your Windows 7 installation.
 3. Restart your computer if prompted to complete the activation process.
 
-## ℹ️ Troubleshooting
+## ✅ Troubleshooting
 
 - Activation Failed: Ensure you are running the tool as an administrator
 - Compatibility Issues: Verify that you are using the correct version of the tool for your Windows 7 edition.
@@ -47,6 +47,10 @@ This project provides a straightforward method to activate Windows 7. The tool i
 ## 📜  License
 
 This project is licensed under the MIT License.
+
+## ℹ️ **Credit**
+
+- Special thanks to  `Dir3ctr1x`, `MASSGRAVE`, `DEAM0` and `Daz` which was instrumental in this script's functionality.
 
 ## ❓ Contact
 
